@@ -1,0 +1,6 @@
+C:\Users\i3i\Documents\GitHub\lista-while\ListaWhile\ListaWhile\bin\Debug\ListaWhile.exe.config
+C:\Users\i3i\Documents\GitHub\lista-while\ListaWhile\ListaWhile\bin\Debug\ListaWhile.exe
+C:\Users\i3i\Documents\GitHub\lista-while\ListaWhile\ListaWhile\bin\Debug\ListaWhile.pdb
+C:\Users\i3i\Documents\GitHub\lista-while\ListaWhile\ListaWhile\obj\Debug\ListaWhile.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\GitHub\lista-while\ListaWhile\ListaWhile\obj\Debug\ListaWhile.exe
+C:\Users\i3i\Documents\GitHub\lista-while\ListaWhile\ListaWhile\obj\Debug\ListaWhile.pdb
